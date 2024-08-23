@@ -8710,7 +8710,7 @@ footer.style-9 .links a small {
 
 .pricing.style-8 .pricing-head {
   padding: 100px 0 70px;
-  background-color: #000
+  background-color: #b5e3f3;
 }
 
 .pricing.style-8 .pricing-head .ui-widget-content {
@@ -8763,7 +8763,7 @@ footer.style-9 .links a small {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  background-color: #131313;
+  background-color: #9ecbff;
   padding: 5px;
   border-radius: 50px
 }
@@ -8792,11 +8792,11 @@ footer.style-9 .links a small {
   top: 0;
   width: 100%;
   height: 60px;
-  background-color: #000
+  background-color: #b5e3f3
 }
 
 .pricing.style-8 .pricing-body .content {
-  padding-bottom: 100px;
+  padding-bottom: 50px;
   border-bottom: 1px solid rgba(153, 153, 153, .2)
 }
 
@@ -18841,7 +18841,7 @@ h2 span {
   background-color: #fff;
   text-align: center;
   max-width: 280px;
-  padding: 38px;
+  padding: 25px;
   border-radius: 10px;
   border-top: 3px solid #5dc4eb;
   transition: .5s
@@ -19202,4 +19202,54 @@ h2 span {
       font-size: 0.8rem;
       padding: 10px;
   }
+}
+.get_demo {
+  padding: 37px 0px;
+  background: linear-gradient(to top, #fff 0, #edf4fe 74%, #e7f1ff 100%) no-repeat 0px 0px;
+  border-radius: 19px;
+  background-size: 100%;
+}.get_link {
+  background: #b5e3f3;
+  display: inline-block;
+  padding: 18px 33px 11px;
+  font-weight: 600;
+  margin-top: 26px;
+
+  border-radius: 7px;
+  box-shadow: 2px 5px 0px 0px #cac5b8;
+ 
+}
+   .wp-pricing-card{
+    background: #fff;
+    height: 100%;
+    padding: 30px;
+    margin: 0.5%;
+    border-radius: 3px;
+    box-shadow: 0px 0px 3px 0px rgb(0 0 0 / 16%);
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .wp-pricing-card h4 span {
+    color: #54cdeb;
+    font-size: 14px;
+    display: block;
+    
+}
+.wp-pricing-card h4 {
+  font-size: 20px;
+  line-height: 26px;
+}
+.wp-pricing-card img {
+  font-size: 20px;
+  line-height: 26px;
+}
+.section_bx3 {
+  width: 100%;
+  background: #f2f7f2;
+  padding: 30px 0px 40px;
+}
+.wp-pricing-img img{
+  width: 90%!important;
+  height: 90%!important;
 }
